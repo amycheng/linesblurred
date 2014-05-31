@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+}
+.container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.still {
+    width: 20%;
+
+}
+
+.still img {
+    max-width: 100%;
+}
+
+.controls {
+    position: fixed;
+    background-color: rgba(0,0,0,.5);
+    color: white;
+    right: 16px;
+    top: 16px;
+    padding: 16px;
+}
+
+.controls p {
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+}

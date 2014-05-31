@@ -1,4 +1,4 @@
-linesblurred
-============
+Lines Blurred
+=============
 
-a sound board where you can remix Blurred Lines to be less rapey
+An exploded view of the Blurred Lines (by Robin Thick, ft. TI ad Pharell) music video.
